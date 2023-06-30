@@ -1,0 +1,47 @@
+[
+    {
+        "id": "BDBEAC52-FC73-4E8F-94B9-B5E3132D0D4C",
+        "name": "Hamburger",
+        "type": "main",
+        "isCombo": false,
+        "isSelected": false,
+        "priceItem": 6.99,
+        "priceCombo": 11.59
+    },
+    {
+        "id": "84A4E5F0-24C5-4CCC-AB0F-B6F3175DE4D0",
+        "name": "Pogo",
+        "type": "main",
+        "isCombo": true,
+        "isSelected": false,
+        "priceItem": 3.25,
+        "priceCombo": 7.75
+    },
+    {
+        "id": "6B87F812-39D0-49BB-85CA-6A5b90Ef3A39",
+        "name": "Pizza - Végé",
+        "type": "main",
+        "isCombo": true,
+        "isSelected": false,
+        "priceItem": 9.99,
+        "priceCombo": 13.49
+    },
+    {
+        "id": "93E5F648-715B-45A3-B4A8-D0D76B728ED7",
+        "name": "Frites",
+        "type": "side",
+        "isCombo": false,
+        "isSelected": false,
+        "priceItem": 4.29,
+        "priceCombo": 4.29
+    },
+    {
+        "id": "5CE06D96-7512-466C-B034-DE234A4F379E",
+        "name": "Boisson",
+        "type": "side",
+        "isCombo": false,
+        "isSelected": false,
+        "priceItem": 1.99,
+        "priceCombo": 1.99
+    }
+]
